@@ -9,4 +9,7 @@ graph TD;
     nuxt-template-->public;
     nuxt-template-->server;
     nuxt-template-->utils;
+    assets-->icons;
+    assets-->scss;
+    public-->image;
 ```
